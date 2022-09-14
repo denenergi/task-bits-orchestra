@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "id": 2222222222,
+      "bookTitle": "Book2",
+      "author": "Author2",
+      "category": "Mysteries",
+      "isbn": 2222222222
+    },
+    {
+      "id": 3333333333,
+      "bookTitle": "Book3",
+      "author": "Author3",
+      "category": "Animals",
+      "isbn": 3333333333
+    },
+    {
+      "bookTitle": "dsa",
+      "author": "dadsa",
+      "category": "Animals",
+      "isbn": "1",
+      "id": "d9bc434b-0371-4231-ba7a-f2d86d375f81"
+    }
+  ]
+}
